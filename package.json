@@ -7,7 +7,7 @@
     "@types/js-yaml": "^4.0.9",
     "@types/node": "^25.2.3",
     "@types/semver-compare": "^1.0.3",
-    "eslint-config-cityssm": "^38.1.0",
+    "eslint-config-cityssm": "^39.0.0",
     "js-yaml": "^4.1.1",
     "json-schema-to-ts": "^3.1.1",
     "prettier-config-cityssm": "^2.1.1"
